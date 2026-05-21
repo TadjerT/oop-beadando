@@ -71,18 +71,9 @@ A rendszer automatikusan betölt:
 - 3 járatot
 - 6 előre létrehozott foglalást
 
-## Program futtatása
-
-bash python repulojegy_foglalas.py 
-
-## Példa menü
-
-text 1 - Járatok listázása 2 - Jegy foglalása 3 - Foglalás lemondása 4 - Foglalások listázása 0 - Kilépés 
 
 ## Fejlesztő
 
 Tadjer Ábrahám Tamás
 
-## GitHub repository
 
-Ide kerül majd a repository link.
